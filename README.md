@@ -1,8 +1,7 @@
-- 👋🏻 Hi, I’m Marina and I am from Brazil
-- 🎸 I’m interested in Music & Technology
-- 🔭 I’m currently learning how to build/program MIDI devices!
+- 👋🏻 Oi! I’m Marina
+- 🎸 I’m a Computer Science & Music double major
 - 📫 How to reach me: ananias.marina@gmail.com
-                     +55 82 988081101
+                     ‭+1 (641) 260-4029‬
 
 <!---
 marinananias/marinananias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
