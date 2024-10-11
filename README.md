@@ -1,8 +1,6 @@
 <h1 align="center">Oi! I'm Marina</h1>
 <h3 align="center">I'm a Computer Science and Music double major with a Concentration in Neuroscience @ Grinnell College</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marinananias" alt="marinananias" /></a> </p>
-
 - 📄 Website [https://marinaananias.com/](https://marinaananias.com/)
 
 - ⚡ LinkedIn [linkedin.com/in/marinaananias](linkedin.com/in/marinaananias)
