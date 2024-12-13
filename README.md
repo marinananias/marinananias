@@ -1,5 +1,4 @@
 <h1 align="center">Oi! I'm Marina</h1>
-<h3 align="center">Computer Science & Music Double Major with a Neuroscience Concentration @ Grinnell College</h3>
 
 <p align="center">
   <a href="https://marinaananias.com/">🌐 Personal Website</a> |
@@ -7,14 +6,11 @@
   📧 <a href="mailto:ananias.marina@gmail.com">Email Me</a>
 </p>
 
----
-
 ### 👋 About Me
 
 - 🎓 I'm pursuing a **double major in Computer Science and Music**, with a **Concentration in Neuroscience** at **Grinnell College**.
 - 🌱 I'm passionate about the intersection of **technology, music, and neuroscience**, and exploring interdisciplinary projects that leverage the connections between them.
 - 🎶 When I'm not coding, you can find me playing a variety of musical instruments and exploring new sounds.
----
 
 ### 🛠️ Languages & Tools
 
